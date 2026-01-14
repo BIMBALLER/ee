@@ -128,5 +128,105 @@ export const products = [
     inStock: true,
     specs: "256GB, Natural Titanium, US Spec",
     image: "/1001889048.jpg" 
+  },
+  { 
+    id: 22, 
+    name: "Apple Magic Keyboard", 
+    price: "450,000", 
+    brand: "Apple", 
+    category: "Apple",
+    inStock: true,
+    specs: "For iPad Pro, Floating Cantilever Design",
+    image: "/apple magic keyboard for ipad pro.jpg" 
+  },
+  { 
+    id: 23, 
+    name: "iPhone 17", 
+    price: "1,450,000", 
+    brand: "Apple", 
+    category: "Apple",
+    inStock: true,
+    specs: "256GB, White, Next-Gen Spec",
+    image: "/iphone 17 256gb white.jpg" 
+  },
+  { 
+    id: 24, 
+    name: "iPhone 17", 
+    price: "1,450,000", 
+    brand: "Apple", 
+    category: "Apple",
+    inStock: true,
+    specs: "256GB, Lavender, Next-Gen Spec",
+    image: "/iphone17 256gb lavender.jpg" 
+  },
+  { 
+    id: 25, 
+    name: "Apple Watch Series 10", 
+    price: "680,000", 
+    brand: "Apple", 
+    category: "Apple",
+    inStock: true,
+    specs: "46mm, Silver Aluminum, Sport Band",
+    image: "/apple watch series 10 46mm silver.jpg" 
+  },
+  { 
+    id: 26, 
+    name: "iPhone Air", 
+    price: "1,250,000", 
+    brand: "Apple", 
+    category: "Apple",
+    inStock: true,
+    specs: "256GB, Gold, Ultra-Thin Design",
+    image: "/iphone air 256gb gold.jpg" 
+  },
+  { 
+    id: 27, 
+    name: "iPhone Air", 
+    price: "1,250,000", 
+    brand: "Apple", 
+    category: "Apple",
+    inStock: true,
+    specs: "256GB, Blue, Ultra-Thin Design",
+    image: "/iphone air 256gb blue.jpg" 
+  },
+  { 
+    id: 28, 
+    name: "iPhone Air", 
+    price: "1,250,000", 
+    brand: "Apple", 
+    category: "Apple",
+    inStock: true,
+    specs: "256GB, Black, Ultra-Thin Design",
+    image: "/iphone air 256gb black.jpg" 
+  },
+  { 
+    id: 29, 
+    name: "iPhone Air", 
+    price: "1,250,000", 
+    brand: "Apple", 
+    category: "Apple",
+    inStock: true,
+    specs: "256GB, White, Ultra-Thin Design",
+    image: "/iphone air 256gb white.jpg" 
+  },
+  { 
+    id: 30, 
+    name: "iPhone 17", 
+    price: "1,450,000", 
+    brand: "Apple", 
+    category: "Apple",
+    inStock: true,
+    specs: "256GB, Sage Green, Next-Gen Spec",
+    image: "/iphone 17 256gb sage.jpg" 
+  },
+  { 
+    id: 31, 
+    name: "Apple Watch Series 10", 
+    price: "680,000", 
+    brand: "Apple", 
+    category: "Apple",
+    inStock: true,
+    specs: "46mm, Rose Gold, Sport Band",
+    image: "/apple watch series 10 46mm rose gold.jpg" 
   }
 ];
