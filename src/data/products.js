@@ -228,5 +228,165 @@ export const products = [
     inStock: true,
     specs: "46mm, Rose Gold, Sport Band",
     image: "/apple watch series 10 46mm rose gold.jpg" 
+  },
+  { 
+    id: 32, 
+    name: "Samsung Galaxy S21", 
+    price: "270,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "8GB RAM, 128GB, Phantom Gray",
+    image: "/1001962933.jpg" 
+  },
+  { 
+    id: 33, 
+    name: "Samsung Galaxy S20 FE", 
+    price: "190,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "6GB RAM, 128GB, Cloud Orange",
+    image: "/1001962991.jpg" 
+  },
+  { 
+    id: 34, 
+    name: "Samsung Galaxy S21 FE", 
+    price: "265,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "6GB RAM, 128GB, Olive Green",
+    image: "/1001962996.jpg" 
+  },
+  { 
+    id: 35, 
+    name: "Samsung Galaxy Plus 5G", 
+    price: "295,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "8GB RAM, 128GB, Phantom Black",
+    image: "/1001963014.jpg" 
+  },
+  { 
+    id: 36, 
+    name: "Samsung Galaxy S10e", 
+    price: "170,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "6GB RAM, 128GB, Prism Black",
+    image: "/1001963029.jpg" 
+  },
+  { 
+    id: 37, 
+    name: "Samsung Galaxy S20", 
+    price: "240,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "8GB RAM, 128GB, Cosmic Gray",
+    image: "/1001963044.jpg" 
+  },
+  { 
+    id: 38, 
+    name: "Samsung Galaxy S21 Ultra 5G", 
+    price: "390,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "8GB RAM, 128GB, Phantom Silver",
+    image: "/1001963056.jpg" 
+  },
+  { 
+    id: 39, 
+    name: "Samsung Galaxy S22 5G", 
+    price: "335,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "8GB RAM, 128GB, Phantom Green",
+    image: "/1001963109.jpg" 
+  },
+  { 
+    id: 40, 
+    name: "Samsung Galaxy S9", 
+    price: "165,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "4GB RAM, 64GB, Coral Blue",
+    image: "/1001963145.jpg" 
+  },
+  { 
+    id: 41, 
+    name: "Samsung Galaxy Note 10", 
+    price: "225,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "8GB RAM, 256GB, Aura Black",
+    image: "/1001963169.jpg" 
+  },
+  { 
+    id: 42, 
+    name: "Samsung Galaxy S22 Ultra 5G", 
+    price: "495,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "8GB RAM, 128GB, Burgundy",
+    image: "/1001963192.jpg" 
+  },
+  { 
+    id: 43, 
+    name: "Samsung Galaxy Note 10 Plus", 
+    price: "320,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "12GB RAM, 256GB, Aura Glow",
+    image: "/1001963280.jpg" 
+  },
+  { 
+    id: 44, 
+    name: "Samsung Galaxy S20 Ultra", 
+    price: "315,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "12GB RAM, 128GB, Cosmic Black",
+    image: "/1001963331.jpg" 
+  },
+  { 
+    id: 45, 
+    name: "Samsung Galaxy S23 Ultra", 
+    price: "530,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "8GB RAM, 256GB, Phantom Black",
+    image: "/1001963511.jpg" 
+  },
+  { 
+    id: 46, 
+    name: "Samsung Galaxy Note 9", 
+    price: "195,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "6GB RAM, 128GB, Metallic Copper",
+    image: "/1001963480.jpg" 
+  },
+  { 
+    id: 47, 
+    name: "Samsung Galaxy S24 Ultra", 
+    price: "1,280,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "12GB RAM, 256GB, Titanium Gold",
+    image: "/1001963537.jpg" 
   }
 ];
