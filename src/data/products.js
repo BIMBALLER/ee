@@ -261,16 +261,6 @@ export const products = [
   },
   { 
     id: 35, 
-    name: "Samsung Galaxy Plus 5G", 
-    price: "295,000", 
-    brand: "Samsung", 
-    category: "Samsung",
-    inStock: true,
-    specs: "8GB RAM, 128GB, Phantom Black",
-    image: "/1001963014.jpg" 
-  },
-  { 
-    id: 36, 
     name: "Samsung Galaxy S10e", 
     price: "170,000", 
     brand: "Samsung", 
@@ -280,7 +270,7 @@ export const products = [
     image: "/1001963029.jpg" 
   },
   { 
-    id: 37, 
+    id: 36, 
     name: "Samsung Galaxy S20", 
     price: "240,000", 
     brand: "Samsung", 
@@ -290,7 +280,7 @@ export const products = [
     image: "/1001963044.jpg" 
   },
   { 
-    id: 38, 
+    id: 37, 
     name: "Samsung Galaxy S21 Ultra 5G", 
     price: "390,000", 
     brand: "Samsung", 
@@ -300,7 +290,7 @@ export const products = [
     image: "/1001963056.jpg" 
   },
   { 
-    id: 39, 
+    id: 38, 
     name: "Samsung Galaxy S22 5G", 
     price: "335,000", 
     brand: "Samsung", 
@@ -310,7 +300,7 @@ export const products = [
     image: "/1001963109.jpg" 
   },
   { 
-    id: 40, 
+    id: 39, 
     name: "Samsung Galaxy S9", 
     price: "165,000", 
     brand: "Samsung", 
@@ -320,7 +310,7 @@ export const products = [
     image: "/1001963145.jpg" 
   },
   { 
-    id: 41, 
+    id: 40, 
     name: "Samsung Galaxy Note 10", 
     price: "225,000", 
     brand: "Samsung", 
@@ -330,7 +320,7 @@ export const products = [
     image: "/1001963169.jpg" 
   },
   { 
-    id: 42, 
+    id: 41, 
     name: "Samsung Galaxy S22 Ultra 5G", 
     price: "495,000", 
     brand: "Samsung", 
@@ -340,7 +330,7 @@ export const products = [
     image: "/1001963192.jpg" 
   },
   { 
-    id: 43, 
+    id: 42, 
     name: "Samsung Galaxy Note 10 Plus", 
     price: "320,000", 
     brand: "Samsung", 
@@ -350,7 +340,7 @@ export const products = [
     image: "/1001963280.jpg" 
   },
   { 
-    id: 44, 
+    id: 43, 
     name: "Samsung Galaxy S20 Ultra", 
     price: "315,000", 
     brand: "Samsung", 
@@ -360,17 +350,7 @@ export const products = [
     image: "/1001963331.jpg" 
   },
   { 
-    id: 45, 
-    name: "Samsung Galaxy S23 Ultra", 
-    price: "530,000", 
-    brand: "Samsung", 
-    category: "Samsung",
-    inStock: true,
-    specs: "8GB RAM, 256GB, Phantom Black",
-    image: "/1001963511.jpg" 
-  },
-  { 
-    id: 46, 
+    id: 44, 
     name: "Samsung Galaxy Note 9", 
     price: "195,000", 
     brand: "Samsung", 
@@ -380,7 +360,7 @@ export const products = [
     image: "/1001963480.jpg" 
   },
   { 
-    id: 47, 
+    id: 45, 
     name: "Samsung Galaxy S24 Ultra", 
     price: "1,280,000", 
     brand: "Samsung", 
@@ -388,5 +368,115 @@ export const products = [
     inStock: true,
     specs: "12GB RAM, 256GB, Titanium Gold",
     image: "/1001963537.jpg" 
+  },
+  { 
+    id: 46, 
+    name: "Samsung Galaxy S21 Plus", 
+    price: "270,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "8GB RAM, 128GB, Phantom Violet",
+    image: "/1001972889.jpg" 
+  },
+  { 
+    id: 47, 
+    name: "Samsung Galaxy S10", 
+    price: "225,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "8GB RAM, 128GB, Prism White",
+    image: "/1001972898.jpg" 
+  },
+  { 
+    id: 48, 
+    name: "Samsung Galaxy S22 Plus 5G", 
+    price: "365,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "8GB RAM, 128GB, Pink Gold",
+    image: "/1001972904.jpg" 
+  },
+  { 
+    id: 49, 
+    name: "Samsung Galaxy S20 Plus", 
+    price: "290,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "12GB RAM, 128GB, Cloud Blue",
+    image: "/1001972911.jpg" 
+  },
+  { 
+    id: 50, 
+    name: "Samsung Galaxy S9 Plus", 
+    price: "185,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "6GB RAM, 64GB, Midnight Black",
+    image: "/1001972920.jpg" 
+  },
+  { 
+    id: 51, 
+    name: "Samsung Galaxy Note 20", 
+    price: "285,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "8GB RAM, 256GB, Mystic Bronze",
+    image: "/1001972943.jpg" 
+  },
+  { 
+    id: 52, 
+    name: "Samsung Galaxy S23 Plus", 
+    price: "530,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "8GB RAM, 256GB, Cream",
+    image: "/1001972946.jpg" 
+  },
+  { 
+    id: 53, 
+    name: "Samsung Galaxy S23 Ultra", 
+    price: "745,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "8GB RAM, 256GB, Green",
+    image: "/1001963511.jpg" 
+  },
+  { 
+    id: 54, 
+    name: "Samsung Galaxy S23", 
+    price: "500,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "8GB RAM, 128GB, Lavender",
+    image: "/1001972960.jpg" 
+  },
+  { 
+    id: 55, 
+    name: "Samsung Galaxy S8", 
+    price: "150,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "4GB RAM, 64GB, Orchid Gray",
+    image: "/1001972963.jpg" 
+  },
+  { 
+    id: 56, 
+    name: "Samsung Galaxy S10", 
+    price: "225,000", 
+    brand: "Samsung", 
+    category: "Samsung",
+    inStock: true,
+    specs: "8GB RAM, 128GB, Prism Black",
+    image: "/1001972901.jpg" 
   }
 ];
